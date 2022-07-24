@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Boler Days
-cover-img: "/media/pictures/boler-reno-1.jpg"
+cover-img: /media/pictures/boler-reno-1.jpg
+layout: minimal
